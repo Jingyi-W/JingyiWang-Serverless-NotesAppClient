@@ -1,3 +1,6 @@
+# Link to the API repo:
+[`https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/JingyiWang--Serverless-NotesAPI`](https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/JingyiWang--Serverless-NotesAPI)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
