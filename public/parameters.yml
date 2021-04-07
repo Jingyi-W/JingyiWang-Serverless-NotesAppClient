@@ -1,0 +1,12 @@
+Parameters:
+  GithubOwner:
+    Type: String
+    Default: Jingyi-W
+    Description: "Github repo owner"
+  GithubRepo:
+    Type: String
+    Default: JingyiWang-Serverless-NotesAppClient
+    Description: "Github repo name"
+  GithubOAuthToken:
+    Type: String
+    Description: "Github personal access token"
